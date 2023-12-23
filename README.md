@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuva Teja Yarravarapu
-- 👀 I’m interested in BIGDATA
+- 👀 Going to be a Data scientist 
 - 📫 How to reach me : yuvateja196@gmail.com
 - Programming languages:Python, c , C++
 <!---
